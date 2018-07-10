@@ -1,0 +1,3 @@
+[submodule "teacherpage"]
+	path = teacherpage
+	url = https://github.com/aditical/sPortal
